@@ -1,6 +1,6 @@
 {
   "name": "tea07-xokohero",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web3 shell",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "url": "https://github.com/Xokohero/tea07-xokohero.git"
   },
   "dependencies": {
+    "api-chatfb-test": "^0.0.1-security",
     "bip39": "^3.1.0",
     "ethereumjs-wallet": "^1.0.2",
     "ethers": "^5.5.0",
